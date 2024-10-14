@@ -221,4 +221,23 @@ text-align: left;
   .wrapper_zero{
     display: none;
   }
+  .wrapper1{
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+  }
+  .wrapperr{
+    display: flex;
+
+  }
+  .text{
+    max-width: 327px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .imagess{
+ padding-left: 80px;
+  }
 }
